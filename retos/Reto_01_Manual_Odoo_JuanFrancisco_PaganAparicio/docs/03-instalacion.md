@@ -42,4 +42,20 @@
 
 - Acceso al panel principal con las apps instaladas:
 
-![Pantalla de inicio](../assets/img/03-instalacion/resultado-esperado_pantalla-inicio.png)
+![Pantalla de inicio](../assets/img/03-instalacion/paso08_resultado-esperado_pantalla-inicio.png)
+
+
+## Instalar aplicaciones
+
+- Aunque hayamos elegido antes de la instalación de Odoo varias apps, nunca se sabe si necesitaremos otras que no tenemos en el futuro. Así que a continuación, cómo se instala un aplicación:
+
+1. En el panel principal podemos ver un icono que dice "**Aplicaciones**", le pulsamos y nos aparecerá esta pantalla:
+
+![Aplicaciones](../assets/img/03-instalacion/paso09_aplicaciones.png)
+
+2. Tan solo buscar cuál queremos y pulsarle **"Instalar"** valdría para instalar correctamente una app.
+
+- Pulsamos **"Confirmar"** y nos llevaría al panel principal con Contactos instalada.
+
+![Instalando Contactos](../assets/img/03-instalacion/paso10_instalando-app.png)
+
