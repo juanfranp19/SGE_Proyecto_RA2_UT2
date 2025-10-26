@@ -4,6 +4,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+.obsidian/
 
 # Build/Temp
 __pycache__/
