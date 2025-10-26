@@ -50,29 +50,41 @@
 
 1. Para ver los ajustes de usuarios y compañías, dentro de ajustes (pulsándole al icono de Ajustes o añadiéndole "/settings" a la URL) nos vamos dentro de **Usuarios y compañías** arriba a la izquierda. Depende a dónde le demos, veremos ajustes de usuarios o de compañías.
 
-![Código QR para A2F](../assets/img/04-ajustes_generales/paso10_ajustes.png)
+![Usuarios y compañías](../assets/img/04-ajustes_generales/paso10_ajustes.png)
 
 2. Dentro de **Usuarios** veremos una lista de los **usuarios registrados**, de momento uno:
 
-![Código QR para A2F](../assets/img/04-ajustes_generales/paso11_vista-users.png)
+![Lista de usuarios](../assets/img/04-ajustes_generales/paso11_vista-users.png)
 
 3. Le pulsado al usuario que tenemos, y nos aparecerá **información sobre él**:
 
 - En roles podemos cambiar el **rol del usuario**.
 
-![Código QR para A2F](../assets/img/04-ajustes_generales/paso12_vista-user.png)
+![Ajustes del usuario](../assets/img/04-ajustes_generales/paso12_vista-user.png)
 
 4. A continuación la vista de los ajustes de la compañía, solo hay una por el momento:
 
-![Código QR para A2F](../assets/img/04-ajustes_generales/paso13_vista-compania.png)
+![Ajustes de la compañía](../assets/img/04-ajustes_generales/paso13_vista-compania.png)
 
 
 ### A continuación se mostrarán opciones generales dentro del icono "Ajustes"
 
 1. En el apartado de **idiomas** podemos volver a cambiar/instalar el idioma.
 
-![Código QR para A2F](../assets/img/04-ajustes_generales/paso14_idiomas.png)
+![Añadir idiomas](../assets/img/04-ajustes_generales/paso14_idiomas.png)
 
 2. En el apartado **Compañías**, en **"Configurar diseño de documento"** podeos cambiar el diseño de la plantilla de factura.
 
-![Código QR para A2F](../assets/img/04-ajustes_generales/paso15_plantilla-facturas.png)
+![Configurar diseño de documento](../assets/img/04-ajustes_generales/paso15_plantilla-facturas.png)
+
+3. En el apartado de **Correos electrónicos**, en la opción de "**Configurar correos electrónicos del resumen**" podemos enviar email con determinada periodicidad.
+
+![Correos electrónicos en opciones generales](../assets/img/04-ajustes_generales/paso16_correos-electronicos-en-opciones-generales.png)
+
+4. Nos aparecen una **lista** de **correos de resumen**, de momento solo uno:
+
+![Lista correos de resumen](../assets/img/04-ajustes_generales/paso17_lista-correos-del-resumen.png)
+
+5. Si le pulsamos al correo, nos aparecerá su **configuración**, entre ella la opción de manejar su **periodicidad**. Podemos elegir hasta trimestralmente.
+
+![Ajustes del correo de resumen](../assets/img/04-ajustes_generales/paso18_ajustes-de-correo-de-resumen.png)
