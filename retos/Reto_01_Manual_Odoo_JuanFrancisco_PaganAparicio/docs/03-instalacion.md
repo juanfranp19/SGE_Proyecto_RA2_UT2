@@ -4,6 +4,12 @@
 - Navegador actualizado que **no** disponga de VPN ni de bloqueador de anuncios (Brave no es el adecuado).
 - Cuenta de correo para alta.
 
+## Índice
+
+- [Pasos](#pasos)
+- [Resultado esperado](#resultado-esperado)
+- [Instalar aplicaciones](#instalar-aplicaciones)
+
 ## Pasos
 1. Desde esta dirección [web](https://www.odoo.com/es_ES/pricing) escogemos la **prueba gratuita** del plan **Estándar**.
 

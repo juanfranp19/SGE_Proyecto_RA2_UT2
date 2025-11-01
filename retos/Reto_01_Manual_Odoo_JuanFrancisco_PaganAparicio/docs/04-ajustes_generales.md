@@ -1,5 +1,11 @@
 # 04 — Ajustes generales
 
+## Índice
+
+- [My Preferences](#my-preferences)
+- [Ajustes](#ajustes)
+	- [Ajustes de usuarios y compañías](#ajustes-de-usuarios-y-compañías)
+	- [Ajustes de opciones generales](#ajustes-de-opciones-generales)
 
 ## My Preferences
 
@@ -46,7 +52,8 @@
 
 ## Ajustes
 
-### A continuación se mostrarán ajustes de usuarios y compañías dentro del icono "Ajustes"
+## Ajustes de usuarios y compañías
+#### A continuación se mostrarán ajustes de usuarios y compañías dentro del icono "Ajustes"
 
 1. Para ver los ajustes de usuarios y compañías, dentro de ajustes (pulsándole al icono de Ajustes o añadiéndole "/settings" a la URL) nos vamos dentro de **Usuarios y compañías** arriba a la izquierda. Depende a dónde le demos, veremos ajustes de usuarios o de compañías.
 
@@ -67,7 +74,8 @@
 ![Ajustes de la compañía](../assets/img/04-ajustes_generales/paso13_vista-compania.png)
 
 
-### A continuación se mostrarán opciones generales dentro del icono "Ajustes"
+### Ajustes de opciones generales
+#### A continuación se mostrarán las opciones generales dentro del icono "Ajustes"
 
 1. En el apartado de **idiomas** podemos volver a cambiar/instalar el idioma.
 
