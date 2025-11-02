@@ -2,7 +2,7 @@
 
 ## Pasos a seguir
 
-1. Desde el panel principal, nos dirigimos al **módulo de contactos**. Si no lo tenemos, habrá que instalarlo, para ello se explica en el punto [03-instalacion](03-instalacion.md#instalar-aplicaciones).
+1. Desde el panel principal, nos dirigimos al **módulo de contactos**. Si no lo tenemos, habrá que instalarlo, para ello se explica en el punto [03 — Instalación y prueba](03-instalacion.md#instalar-aplicaciones).
 
 ![Pantalla contactos](../assets/img/06-contactos/paso01_pantalla-contactos.png)
 
