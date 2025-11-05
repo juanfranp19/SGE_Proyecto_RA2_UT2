@@ -1,10 +1,12 @@
 # 02 — Introducción
 
-> Estructura orientativa
+Odoo es un **ERP** de código abierto con una amplia variedad de aplicaciones para la **gestión empresarial**.
 
-> **Objetivo:** Entender qué es Odoo y qué se cubrirá en el manual.
+En el manual veremos:
 
-- Odoo como suite modular (CRM, ventas, contabilidad, inventario, marketing, proyectos, e-commerce, documentos, etc.).
-- Community vs Enterprise (soporte, app móvil, Odoo Studio).
-- Ventajas: integración entre módulos, escalabilidad, personalización.
-- Consideraciones: rendimiento depende del hosting; calidad de algunos módulos Community.
+- **Instalar** Odoo y sus aplicaciones.
+- Manejar **ajustes** de Odoo y de otros módulos.
+- Módulos de **Contactos**, **Calendario**, **Citas**, **Proyecto**, **Documentos**, **Información** y **Servicio de asistencia**.
+- Integración con las **APIs** de **Google Calendar** y **Gmail**.
+- Sus diferentes **planes**: gratis y de pago; y **contratos**.
+- **Tips** y **checklist** importantes una vez acabado.
