@@ -1,8 +1,9 @@
 # 09 — Verificación de acceso
 
-- Comprueba que puedes iniciar sesión y ver el **panel de Odoo**.
-- Toma una captura del **dashboard** con la **fecha/hora** visible.
+1. **Cierro sesión** y voy al **Login**.
 
-![Dashboard](../assets/img/09-verificacion/paso01_dashboard.png "Panel principal Odoo")
+![Login](../assets/img/09-verificacion/paso01_login.png "Login")
 
-> Resultado esperado: acceso confirmado desde el navegador local.
+2. Inicio sesión con el **correo y contraseña** que puse al **crear la base de datos** y me abre el **dashboard de un módulo**.
+
+![Dashboard de conversaciones](../assets/img/09-verificacion/paso02_dashboard-de-conversaciones.png "Dashboard de conversaciones")
