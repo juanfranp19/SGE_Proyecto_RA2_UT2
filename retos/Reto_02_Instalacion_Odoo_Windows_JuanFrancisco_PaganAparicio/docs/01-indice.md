@@ -1,4 +1,5 @@
 # Índice
+
 1. [Requisitos previos](./02-requisitos_previos.md)
 2. [Descarga del instalador](./03-descarga_instalador.md)
 3. [PostgreSQL en Windows](./04-postgresql_windows.md)
