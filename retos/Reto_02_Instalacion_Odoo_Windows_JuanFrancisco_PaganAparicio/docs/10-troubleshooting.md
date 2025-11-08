@@ -4,5 +4,4 @@
 - **Error con PostgreSQL** → Revisa usuario/contraseña/puerto, estado del servicio.
 - **Firewall/antivirus** → Permite Odoo/PostgreSQL o crea excepciones.
 - **Servicio no arranca** → Consulta logs y dependencias, reinstala si es necesario.
-
-> Añade los problemas que encuentres y cómo los resolviste, con capturas.
+- **Contraseñas o usuarios olvidados** → Apúntalos y pon la misma contraseña que nombre de usuario.
