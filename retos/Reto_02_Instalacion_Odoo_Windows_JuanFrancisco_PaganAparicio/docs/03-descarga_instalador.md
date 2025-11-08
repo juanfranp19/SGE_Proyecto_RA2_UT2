@@ -1,8 +1,18 @@
 # 03 — Descarga del instalador de Odoo
 
-1. Accede a la **web oficial de Odoo** y localiza el **instalador para Windows**.
-   - ![Web oficial](../assets/img/03-descarga_instalador/paso01_ir-web-oficial.png "Página de descarga")
-2. Descarga la **versión estable** que vayas a usar en clase (anota la **versión exacta**).
-   - ![Descarga](../assets/img/03-descarga_instalador/paso02_descargar-installer.png "Descargar instalador")
+## Pasos a seguir
 
-> Resultado esperado: fichero `Odoo-<version>-setup.exe` en tu equipo.
+1. Nos dirigimos a la [web oficial de Odoo](https://www.odoo.com/es_ES/page/download) y localiza el **instalador para Windows** para Odoo 19. Instalamos la versión **Community**. Antes debemos **rellenar información** de la empresa y sobre nosotros.
+
+![Web oficial](../assets/img/03-descarga_instalador/paso01_pagina-oficial-odoo.png "Página de descarga")
+
+2. Si lo hemos hecho todo correctamente nos aparecerá esta pantalla y el **archivo de instalación descargándose**.
+
+![Archivo instalación](../assets/img/03-descarga_instalador/paso02_archivo-instalacion.png "Descargando instalador")
+
+3. Comprobamos yendo a **Descargas** en el **Explorador de archivos**.
+
+![Archivo descargado](../assets/img/03-descarga_instalador/paso03_archivo-descargado.png "Archivo de instalación descargado")
+
+
+> Resultado esperado: fichero `odoo_setup_<version><fecha>.exe` en tu equipo.
