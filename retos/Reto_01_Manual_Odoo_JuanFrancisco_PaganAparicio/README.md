@@ -1,7 +1,7 @@
 # Reto 1 — Manual de Odoo (Markdown + capturas)
 
 ## Entregable
-Carpeta completa `retos/Reto_01_Manual_Odoo_NombreAlumno_ApellidosAlumno/` con:
+Carpeta completa `retos/Reto_01_Manual_Odoo_JuanFrancisco_PaganAparicio/` con:
 - `docs/` (secciones 00–11 + 99)
 - `assets/img/` (capturas por sección)
 - `rubric/R01_Manual_Odoo_rubrica.md` (leída y seguida)
