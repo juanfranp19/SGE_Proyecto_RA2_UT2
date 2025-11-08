@@ -13,6 +13,3 @@
 3. Comprobamos yendo a **Descargas** en el **Explorador de archivos**.
 
 ![Archivo descargado](../assets/img/03-descarga_instalador/paso03_archivo-descargado.png "Archivo de instalación descargado")
-
-
-> Resultado esperado: fichero `odoo_setup_<version><fecha>.exe` en tu equipo.
