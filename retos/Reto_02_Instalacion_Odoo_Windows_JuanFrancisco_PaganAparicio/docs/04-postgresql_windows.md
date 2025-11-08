@@ -1,12 +1,7 @@
 # 04 — PostgreSQL en Windows
 
-> Odoo requiere **PostgreSQL**. Según instalador y versión, se incluye o puede requerir instalación separada.
+> Odoo requiere **PostgreSQL.**
+> 
+> En los paquetes de instalación de Windows, ya viene integrada la instalación de PostgreSQL. Lo puedes ver en el punto [05-Instalación de Odoo](./05-instalacion_odoo.md), **paso 5**. Donde se aprecia la instalación de **Odoo Server** y **PostgreSQL Server**.
 
-1. Verifica si el instalador de Odoo **instala PostgreSQL** automáticamente.
-2. Si no, descarga **PostgreSQL para Windows** e instálalo:
-   - Selecciona versión soportada por tu Odoo.
-   - Define usuario `postgres` y contraseña **segura** (anótala).
-   - ![Instalar PostgreSQL](../assets/img/04-postgresql_windows/paso01_instalar-postgres.png "Asistente de PostgreSQL")
-3. Comprueba que el **servicio de PostgreSQL** está en ejecución.
-
-> Resultado esperado: PostgreSQL instalado y funcionando (usuario/puerto guardados).
+No hace falta instalar PostgreSQL por separado, ya viene integrado con la **instalación de Odoo**.
