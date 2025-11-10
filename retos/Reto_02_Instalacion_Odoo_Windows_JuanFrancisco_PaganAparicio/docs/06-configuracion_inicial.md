@@ -1,6 +1,6 @@
 # 06 — Configuración inicial
 
-1. Abrimos el explorador de archivos en una ruta parecida a esta (la misma que nos indicó en la [instalación](./05-instalacion_odoo), punto 7): `C:\Program Files\Odoo 19.0.20251108`.
+1. Abrimos el explorador de archivos en una ruta parecida a esta (la misma que nos indicó en la [instalación](./05-instalacion_odoo.md), punto 7): `C:\Program Files\Odoo 19.0.20251108`.
 
 ![Localización de Odoo en archivos](../assets/img/06-configuracion_inicial/paso01_odoo-en-explorador-de-archivos.png "Localización de Odoo en archivos")
 

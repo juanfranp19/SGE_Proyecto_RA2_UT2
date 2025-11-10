@@ -32,6 +32,7 @@
 ![Crear proyecto](../assets/img/07-calendario_y_citas/paso05_crear-proyecto.png)
 
 ![Nombrar proyecto](../assets/img/07-calendario_y_citas/paso05_nombrar-proyecto.png)
+
 6. Una vez creado **muy importante** haber cambiado de proyecto porque aún seguimos en el proyecto de cuando vinculamos Gmail, y buscamos **Google Calendar API**.
 
 ![Buscar plugin](../assets/img/07-calendario_y_citas/paso06_buscar-plugin.png)
