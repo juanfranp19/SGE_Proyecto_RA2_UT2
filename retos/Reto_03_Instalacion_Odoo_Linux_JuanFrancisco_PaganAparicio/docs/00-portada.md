@@ -1,5 +1,6 @@
-# Instalación de Odoo en Linux — {Nombre Apellidos}
-**Reto:** Reto_03_Instalacion_Odoo_Linux_{Nombre}_{Apellidos}  
+![portada](./../assets/img/00-portada/portada.jpg)
+
+**Reto:** Reto_03_Instalacion_Odoo_Linux_JuanFrancisco_PaganAparicio  
 **Proyecto:** Proyecto_RA2_UT2  
-**Fecha:** {YYYY-MM-DD}
-**Distro:** {Ubuntu 22.04 / Debian 12 / …}
+**Fecha:** 2025-11-13  
+**Distro:** Ubuntu 24.04
