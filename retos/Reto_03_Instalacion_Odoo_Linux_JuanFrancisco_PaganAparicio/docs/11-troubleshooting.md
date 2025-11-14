@@ -5,5 +5,4 @@
 - **wkhtmltopdf no compatible** → Instala versión recomendada para tu Odoo.
 - **Permisos/propiedad** → Ajusta dueños (`odoo:odoo`) y permisos de rutas.
 - **Servicio falla al arrancar** → Revisa `journalctl -u odoo` y `odoo.log`.
-
-> Añade problemas reales encontrados y su solución con evidencia.
+- **Olvidar contraseña** → Poner la misma contraseña que el usuario o anotarlas.
